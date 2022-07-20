@@ -4,7 +4,8 @@
 
 [Ghost](https://ghost.org) is a popular blogging engine with a clean interface written in JavaScript. It can either use a file-based SQLite database or MySQL for storage.
 
-### .
+### 
+This is a simple demo of Ghost on a minmikube cluster.
 
 
 ### Create a ConfigMap Object
